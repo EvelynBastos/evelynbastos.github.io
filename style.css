@@ -1,0 +1,65 @@
+  body {
+    padding: 1%;
+  }
+  .meuNome {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #b5838d;
+    text-align: center;
+    background-color: #ffcdb2;
+  }
+
+  img {
+    border-radius: 10%;
+  }
+
+  body {
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: #6d6875;
+  }
+
+  p {
+    color: #ffcdb2;
+    line-height: 20px;
+    text-align: center;
+  }
+
+  h2{
+    font-size: 30px;
+    color: #b5838d;
+    text-align: center;
+    text-decoration: overline;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+  }
+
+  ul {
+    color: #ffcdb2;
+    line-height: 45px;
+    font-weight: bolder;
+  }
+
+  #minha-foto {
+    float: left;
+    height: 245px;
+    padding: 10px;
+    margin: 35px;
+    background-color: #ffcdb2;
+  }
+
+  .container-imaginario {
+    height: 365px;
+  }
+
+  .descricao {
+    position: absolute;
+    top: 230px;
+    left: 250px;
+    right: 200px;
+  }
+
+  ul li:nth-child(odd) {
+    background-color: #b5838d;
+  }
+
+
+  
